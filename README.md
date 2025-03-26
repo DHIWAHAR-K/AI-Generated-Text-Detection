@@ -62,12 +62,13 @@ python main.py
 
 The ensemble uses a soft-voting strategy with the following weights:
 
-Model                Weight
-MultinomialNB        0.10
-SGDClassifier        0.51
-LightGBM             0.28
-CatBoostClassifier   0.85  
-RandomForest         0.35
+| Model               | Weight |
+|---------------------|--------|
+| MultinomialNB       | 0.10   |
+| SGDClassifier       | 0.51   |
+| LightGBM            | 0.28   |
+| CatBoostClassifier  | 0.85   |
+| RandomForest        | 0.35   |
 
 ## Features:
 
