@@ -1,0 +1,4 @@
+./daigt proper train data
+./daigt v2 data
+./llm-detect-ai-generated-text
+./splited test data
